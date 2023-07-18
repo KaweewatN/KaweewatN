@@ -6,7 +6,7 @@ Student
 
 I am currently a digital engineering student at Sirindhorn International Institute of Technology (SIIT).
 
-* I currently learning Front-End, Back-End
+* ‎‍💻  I currently learning Front-End, Back-End
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [kaweewatnoisuwan@gmail.com](mailto:kaweewatnoisuwan@gmail.com)
 
