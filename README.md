@@ -7,7 +7,7 @@ Student
 I am currently a digital engineering student at Sirindhorn International Institute of Technology (SIIT).
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [kaweewatnoisuwan@gmail.com](mailto:kaweewat.nswnoisuwan@gmail.com)
+* ✉️  You can contact me at [kaweewat.nsw@gmail.com](mailto:kaweewat.nsw@gmail.com)
 
 ### Skills
 
